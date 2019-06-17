@@ -1,0 +1,23 @@
+This is the org-mode format version of the ~on lisp~ book from ~Paul Graham~ I
+adopted from the online free version from http://www.paulgraham.com/onlisp.html.
+
+#+BEGIN_QUOTE
+On Lisp is a comprehensive study of advanced Lisp techniques, with bottom-up
+programming as the unifying theme. It gives the first complete description of
+macros and macro applications. The book also covers important subjects related
+to bottom-up programming, including functional programming, rapid prototyping,
+interactive development, and embedded languages. The final chapter takes a
+deeper look at object-oriented programming than previous Lisp books, showing the
+step-by-step construction of a working model of the Common Lisp Object System
+(CLOS).
+
+As well as an indispensable reference, On Lisp is a source of software. Its
+examples form a library of functions and macros that readers will be able to use
+in their own Lisp programs.
+#+END_QUOTE
+
+You can download the book in PDF or ps format from http://www.paulgraham.com/onlisp.html.
+
+You can also get the ePub format from this org-mode file using [[https://github.com/ofosos/ox-epub][ox-epub]] or [[https://github.com/kawabata/ox-pandoc][ox-pandoc]].
+
+Do NOT use this for any commercial purpose.
