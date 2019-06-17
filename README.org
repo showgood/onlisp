@@ -1,5 +1,5 @@
 This is the org-mode format version of the ~on lisp~ book from ~Paul Graham~ I
-adopted from the online free version from http://www.paulgraham.com/onlisp.html.
+adopted from the online free version from https://code.google.com/archive/p/onlisp/.
 
 #+BEGIN_QUOTE
 On Lisp is a comprehensive study of advanced Lisp techniques, with bottom-up
